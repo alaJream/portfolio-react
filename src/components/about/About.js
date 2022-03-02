@@ -12,7 +12,7 @@ class About extends Component {
                     <h2 className={classes.heading}>Hello!</h2>
                     <div className={classes.About}>
                         <p> My name is <b>Jeremy Gonzales</b> and I am currently attending at <b>Dominican University of California</b>. Pursuing my Bachelors Degree in Applied Computer Science. I am really interested in developing new things and I'm always excited to learn. :)  </p>
-                        <p className={classes.br}>I love exploring new technologies just as much as exploring nature. I strive to be better one line of code at a time. 
+                        <p className={classes.br}>I strive to be better one line of code at a time. 
                         </p>
                     </div>
                 </ScrollAnimation>
